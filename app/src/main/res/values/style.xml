@@ -1,0 +1,7 @@
+<resources>
+    <style name="CarouselRoundedCornerImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/dp_20</item>
+    </style>
+
+</resources>
